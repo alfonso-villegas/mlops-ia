@@ -1,2 +1,2 @@
 # mlops-ia
-MLOPS Individual Assignment
+MLOPS Individual Assignment - ML model
